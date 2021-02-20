@@ -1,0 +1,1571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+<<<<<<< Updated upstream
+    <list default="true" id="743649f3-2ecf-4a97-967c-8cc3a5e6367b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/emails/sendMailToAdminAfterProductAdd.blade.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/01a929e7887990251cb687d5daf4f24c03dcc5d7.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/02e2eb8a72180a606e685056baf69fe8716177dd.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/0ad1dc17e276c05d31f24ebaecd3cfb1414fce49.php" afterPath="" />
+=======
+    <list default="true" id="633c75a8-1898-4738-bf40-0542bb6f120c" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/01a929e7887990251cb687d5daf4f24c03dcc5d7.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/02e2eb8a72180a606e685056baf69fe8716177dd.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/0ad1dc17e276c05d31f24ebaecd3cfb1414fce49.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/0ba864da30b9f4e24bbff155431e9a39cb8975fa.php" afterPath="" />
+>>>>>>> Stashed changes
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/0f6d4b977c86fd797da2e4867245101c2ec85ca5.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/134f5231287bc01dbb20bc533946feb301d84190.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/1450e08fc3e58eeb0c45fd648f21a67d8e79f067.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/16c50db8355a6372b8c45716241613055001b0f7.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/1e3bbd67f72f59e9d5dbf2ba8df86ac9460507fb.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/245ef40135066e4a4516986ac312a6e759e0607f.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/297c823830d3b62b5481262fde52016e73477427.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/2a05c419562d47050b0e0ee6c4f94048781fef46.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/2fc2ecbaea848b93e8c962f125501ac2ba9c5062.php" afterPath="" />
+<<<<<<< Updated upstream
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/35242f00b04fe949dac78f49b293eed0d72da5e8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/3f3d36b3bcd090c48888eedd1e26c8722fa4c188.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/4ce78666160e8735216703399bff18f04435768d.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/4f83adddcc1d3a3c35fd507db8a0a66760c06732.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/58b2e224f8aec3f296a4e5cce5d85c79d6160667.php" afterPath="" />
+=======
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/349b05b610868bdf53d797c196b4399af16ba59e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/35242f00b04fe949dac78f49b293eed0d72da5e8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/352897a71781ac5cc74caea5afe5f29b777c8334.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/3f3d36b3bcd090c48888eedd1e26c8722fa4c188.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/42a59c9948b6536d7ad47ea847c80681d2388799.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/482fc6018dd62c9569efd42e8c77068d66c3c5fc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/48639f8a608c9f8406cdd8db0f8b2de5874e49f4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/4ce78666160e8735216703399bff18f04435768d.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/4f83adddcc1d3a3c35fd507db8a0a66760c06732.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/51bd050fbbc33afb48aa8f3e1081eaea07f59b63.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/54e6c3f42d5624711ca4d14bf23e5c6d29342267.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/58b2e224f8aec3f296a4e5cce5d85c79d6160667.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/5c71b6ca5fbb82274bda16f15afe4c5fc95ee9d4.php" afterPath="" />
+>>>>>>> Stashed changes
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/61ef63096a3f6161ca1f9aeed1ec1e148a79c485.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/6785ad3b69d8f0e0ce6fa8423b7eb46b559f0b49.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/6848b1a674d4c27506cbb071a4d0af77f90591c9.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/6c3f72c518accd2054c2b6cf426ce503692f4e60.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/6d92d3188fdbe7ca923167c781fb5ac6928385ff.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/6e4f7cd9d4eadb2761af731357784ffe69881f13.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/6f334d0708ef57d460bc20d9a1b5506247322fd2.php" afterPath="" />
+<<<<<<< Updated upstream
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/71c63f49a572f29f14a5eba280e1794b9ca8d22e.php" afterPath="" />
+=======
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/6fb29c143b7012b3cbd0294883672a3923e98f67.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/71c63f49a572f29f14a5eba280e1794b9ca8d22e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/72ebd111a8b48ef0369d91dca571660e4f061f3a.php" afterPath="" />
+>>>>>>> Stashed changes
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/73f69d3bd65e097a4f33e863d8f72939c5f600e3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/78c892150af585f7f829b1e32b4930368212379f.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/7b4e8943bc6a7e94826521ed65f9b87a494d6740.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/7e4e604d2326b9be02828c738bfb5852ecf77f71.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/85943b088faa9a0a1093e62cd11c548478d03b2b.php" afterPath="" />
+<<<<<<< Updated upstream
+=======
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/85f5521a60e17d016bd43912f22af1070fa4043f.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/86504ae4c9095a5d369e7f3babb5a98ab8f8b89f.php" afterPath="" />
+>>>>>>> Stashed changes
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/8764c1c58702476d5effa325767d32e5eeb8bde3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/8927fa01dc0d7b7df64f7742d6db80b5ec394319.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/8a8bf5bc15051e5d4c7ee99a202ec5b81b77b5e5.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/9038e0525b98cbd1f6e4806c59bd565716ec7d80.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/933cb5df89d2af2a53deaf383cb8e394b671f891.php" afterPath="" />
+<<<<<<< Updated upstream
+=======
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/a025cc07c52d1407a3e0251a15385e9f027f268b.php" afterPath="" />
+>>>>>>> Stashed changes
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/a56ed1d3ad86e79a2e2d556774a66f896a7b06c8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/a5b4e5a6cd2e7a538eb8ed74f05850c23692b7f3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/a8b0e550974fa3e4da4bb0135dc37420842857b7.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/aa48ce9c263652bf1d8db5121e87d620edd9f53d.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/acc5d4ceb1d6b8ed3b8b919907ddb753d8bc4c02.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/aea7a0efb5eddfe536d07dc30de1dec7921d7298.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/b7ac2c0981c33a6c13a85ae5d0d56e284142ee59.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/bea8b30e21044f30f9fcd122a4b6ac899b5cd25d.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/c19acba82bc360f82b3b8e5077883a635a3914f3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/c1ded749b5548df904774a0586576e62630c093d.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/c2b1f0e57c6cc4e16c9e33285a44ab5b610a1798.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/c35afbf105ca2cc3042e31f273f37ca8daadc066.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/c65c23fd6977ae3bfaf94422af5d16d186c4a079.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/c9a1becfb1ca7e17c10b531544ed6117c2efed1e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/cfeaa8e336963b6a43171c52814812cb60a2f11e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/d260eaadf7b62c5d907288f1eb27b69667ee1255.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/d755db8eb0607b9843cd1f67c73561fbc7a6e24a.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/da63a43ed26424a790cf3f7723282788771a1a64.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/ddb3ec7cf15a78fb0408ed8b2cd1bbf0fada3933.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/e27d8dc6efe10cd2098dd7d07c0fd72965bd3370.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/e3c6f6aab45d2ee8717094ae9e99b69ed72bd86e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/e53ade821df876ce413291661363138e4a7e7143.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/e7cbc3360f832b7ab749854fb39cd34cb2d43e3d.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/ee0580663bd3172fe5601b131087f4574ebf1316.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/f0129dfe0be85c3a06d46b2e496aee2d722a0b2d.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/f0a46e8385ef6e4eb2695d036519de54202b25b9.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/f725efd3c2b59e2afb944987bf7932095fbecb72.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/f90c205b3e4f817978649c845a82ad6a36fe8169.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/f91acdbbe96c08ed6c36a6acde1debeb46b5f070.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/f957f24df5cb248ce2c6d16b984fc75da01b3cf8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/f9ad433b0f998c0495ca31da7dca97d20fe39d6a.php" afterPath="" />
+<<<<<<< Updated upstream
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/fa7a6a4c074c7505c74162c33b149088e9d46f00.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/framework/cache/18/f9/18f9001794c859f2ce3c99b0cbd8e64958a29b53" afterPath="$PROJECT_DIR$/public/framework/cache/18/f9/18f9001794c859f2ce3c99b0cbd8e64958a29b53" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/03/82/0382c5af8adc25945dcc51af57559b9fbf08d8b5" afterPath="$PROJECT_DIR$/storage/framework/cache/03/82/0382c5af8adc25945dcc51af57559b9fbf08d8b5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/AddressesController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/AddressesController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/ProductsController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProductsController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/User.php" afterPath="$PROJECT_DIR$/app/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/lang/en/address.php" afterPath="$PROJECT_DIR$/resources/lang/en/address.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/lang/en/user.php" afterPath="$PROJECT_DIR$/resources/lang/en/user.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/address/list.blade.php" afterPath="$PROJECT_DIR$/resources/views/address/list.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/home.blade.php" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/orders/detail.blade.php" afterPath="$PROJECT_DIR$/resources/views/orders/detail.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/orders/wish.blade.php" afterPath="$PROJECT_DIR$/resources/views/orders/wish.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/partial/navigation.blade.php" afterPath="$PROJECT_DIR$/resources/views/partial/navigation.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/products/myProducts.blade.php" afterPath="$PROJECT_DIR$/resources/views/products/myProducts.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/products/partial/productBox.blade.php" afterPath="$PROJECT_DIR$/resources/views/products/partial/productBox.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/user/partial/menu_top.blade.php" afterPath="$PROJECT_DIR$/resources/views/user/partial/menu_top.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/user/partial/user_inputs.blade.php" afterPath="$PROJECT_DIR$/resources/views/user/partial/user_inputs.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/user/profile.blade.php" afterPath="$PROJECT_DIR$/resources/views/user/profile.blade.php" />
+=======
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/fa031e5969f173201d0021ceec35f84cdb93535f.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/views/fa7a6a4c074c7505c74162c33b149088e9d46f00.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/03/82/0382c5af8adc25945dcc51af57559b9fbf08d8b5" afterPath="$PROJECT_DIR$/storage/framework/cache/03/82/0382c5af8adc25945dcc51af57559b9fbf08d8b5" />
+>>>>>>> Stashed changes
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/07/89/07893a7534ef1760be90664766c5f5cec97ade7a" afterPath="$PROJECT_DIR$/storage/framework/cache/07/89/07893a7534ef1760be90664766c5f5cec97ade7a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/18/f9/18f9001794c859f2ce3c99b0cbd8e64958a29b53" afterPath="$PROJECT_DIR$/storage/framework/cache/18/f9/18f9001794c859f2ce3c99b0cbd8e64958a29b53" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/2f/6e/2f6e69c3a2021b36f890f7a3072d7c5633209858" afterPath="$PROJECT_DIR$/storage/framework/cache/2f/6e/2f6e69c3a2021b36f890f7a3072d7c5633209858" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/3f/a4/3fa41c5aba3ba933c176ef493ec0ef3ed9034bef" afterPath="$PROJECT_DIR$/storage/framework/cache/3f/a4/3fa41c5aba3ba933c176ef493ec0ef3ed9034bef" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/4a/c3/4ac34be31be6f9313be6da68d05cce194c3ec680" afterPath="$PROJECT_DIR$/storage/framework/cache/4a/c3/4ac34be31be6f9313be6da68d05cce194c3ec680" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/76/bb/76bb2b3a5f3aa495d276a4e0025b3ad7c56f61fa" afterPath="$PROJECT_DIR$/storage/framework/cache/76/bb/76bb2b3a5f3aa495d276a4e0025b3ad7c56f61fa" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/a5/5c/a55c12aaf4c4ff5536279c60d311d29664a65751" afterPath="$PROJECT_DIR$/storage/framework/cache/a5/5c/a55c12aaf4c4ff5536279c60d311d29664a65751" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/c0/f7/c0f791fed59f1d304a866af427107a209f7042c4" afterPath="$PROJECT_DIR$/storage/framework/cache/c0/f7/c0f791fed59f1d304a866af427107a209f7042c4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/e0/21/e0210a68368af801cbd83c0b21be398b1f146e63" afterPath="$PROJECT_DIR$/storage/framework/cache/e0/21/e0210a68368af801cbd83c0b21be398b1f146e63" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/e9/1a/e91a416039898f161a95eda73d12df368c580a38" afterPath="$PROJECT_DIR$/storage/framework/cache/e9/1a/e91a416039898f161a95eda73d12df368c580a38" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/f5/26/f5268dae270510d745188f0fe8279a16e81790a6" afterPath="$PROJECT_DIR$/storage/framework/cache/f5/26/f5268dae270510d745188f0fe8279a16e81790a6" />
+<<<<<<< Updated upstream
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/views/349b05b610868bdf53d797c196b4399af16ba59e.php" afterPath="$PROJECT_DIR$/storage/framework/views/349b05b610868bdf53d797c196b4399af16ba59e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/views/352897a71781ac5cc74caea5afe5f29b777c8334.php" afterPath="$PROJECT_DIR$/storage/framework/views/352897a71781ac5cc74caea5afe5f29b777c8334.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/views/51bd050fbbc33afb48aa8f3e1081eaea07f59b63.php" afterPath="$PROJECT_DIR$/storage/framework/views/51bd050fbbc33afb48aa8f3e1081eaea07f59b63.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/views/5c71b6ca5fbb82274bda16f15afe4c5fc95ee9d4.php" afterPath="$PROJECT_DIR$/storage/framework/views/5c71b6ca5fbb82274bda16f15afe4c5fc95ee9d4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/views/72ebd111a8b48ef0369d91dca571660e4f061f3a.php" afterPath="$PROJECT_DIR$/storage/framework/views/72ebd111a8b48ef0369d91dca571660e4f061f3a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/views/85f5521a60e17d016bd43912f22af1070fa4043f.php" afterPath="$PROJECT_DIR$/storage/framework/views/85f5521a60e17d016bd43912f22af1070fa4043f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/views/86504ae4c9095a5d369e7f3babb5a98ab8f8b89f.php" afterPath="$PROJECT_DIR$/storage/framework/views/86504ae4c9095a5d369e7f3babb5a98ab8f8b89f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/views/a025cc07c52d1407a3e0251a15385e9f027f268b.php" afterPath="$PROJECT_DIR$/storage/framework/views/a025cc07c52d1407a3e0251a15385e9f027f268b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/views/fa031e5969f173201d0021ceec35f84cdb93535f.php" afterPath="$PROJECT_DIR$/storage/framework/views/fa031e5969f173201d0021ceec35f84cdb93535f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/logs/laravel.log" afterPath="$PROJECT_DIR$/storage/logs/laravel.log" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/storage/framework/views/6fb29c143b7012b3cbd0294883672a3923e98f67.php" afterPath="$PROJECT_DIR$/storage/framework/views/42a59c9948b6536d7ad47ea847c80681d2388799.php" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/logs/laravel.log" afterPath="$PROJECT_DIR$/storage/logs/laravel.log" />
+>>>>>>> Stashed changes
+    </list>
+    <ignored path="e-commerce-talegaon.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="e-commerce-talegaon" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< Updated upstream
+      <file leaf-file-name="profile.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/user/profile.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="41" column="64" selection-start-line="41" selection-start-column="64" selection-end-line="41" selection-end-column="64" />
+=======
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="225" column="52" selection-start-line="225" selection-start-column="36" selection-end-line="225" selection-end-column="52" />
+>>>>>>> Stashed changes
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< Updated upstream
+      <file leaf-file-name="productBox.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/products/partial/productBox.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+=======
+      <file leaf-file-name="OrdersController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/OrdersController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="701" column="28" selection-start-line="701" selection-start-column="28" selection-end-line="701" selection-end-column="32" />
+>>>>>>> Stashed changes
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< Updated upstream
+      <file leaf-file-name="navigation.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/partial/navigation.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1105">
+              <caret line="65" column="39" selection-start-line="65" selection-start-column="39" selection-end-line="65" selection-end-column="39" />
+=======
+      <file leaf-file-name="cart.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/orders/cart.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="205" column="69" selection-start-line="205" selection-start-column="69" selection-end-line="205" selection-end-column="69" />
+>>>>>>> Stashed changes
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< Updated upstream
+      <file leaf-file-name="myProducts.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/products/myProducts.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1258">
+              <caret line="74" column="37" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
+=======
+      <file leaf-file-name="UserController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UserController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="160" column="5" selection-start-line="160" selection-start-column="5" selection-end-line="160" selection-end-column="5" />
+>>>>>>> Stashed changes
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< Updated upstream
+      <file leaf-file-name="menu_top.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/user/partial/menu_top.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="100" selection-start-line="3" selection-start-column="100" selection-end-line="3" selection-end-column="100" />
+=======
+      <file leaf-file-name="profile.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/user/profile.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="41" column="103" selection-start-line="41" selection-start-column="103" selection-end-line="41" selection-end-column="103" />
+>>>>>>> Stashed changes
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< Updated upstream
+      <file leaf-file-name="detail.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/orders/detail.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3553">
+              <caret line="209" column="71" selection-start-line="209" selection-start-column="71" selection-end-line="209" selection-end-column="71" />
+=======
+      <file leaf-file-name="navigation.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/partial/navigation.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+>>>>>>> Stashed changes
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< Updated upstream
+      <file leaf-file-name="cart.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/orders/cart.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1768">
+              <caret line="104" column="36" selection-start-line="104" selection-start-column="36" selection-end-line="104" selection-end-column="36" />
+              <folding />
+=======
+      <file leaf-file-name="Utility.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Helpers/Utility.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="428" column="27" selection-start-line="428" selection-start-column="27" selection-end-line="428" selection-end-column="27" />
+              <folding>
+                <marker date="1481398143912" expanded="true" signature="14778:14784" placeholder="..." />
+              </folding>
+>>>>>>> Stashed changes
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< Updated upstream
+      <file leaf-file-name="home.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="107" column="47" selection-start-line="107" selection-start-column="47" selection-end-line="107" selection-end-column="47" />
+              <folding />
+=======
+      <file leaf-file-name="menu_top.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/user/partial/menu_top.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#a#0;n#li#0;n#!!top" expanded="true" />
+              </folding>
+>>>>>>> Stashed changes
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< Updated upstream
+      <file leaf-file-name="0382c5af8adc25945dcc51af57559b9fbf08d8b5" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/storage/framework/cache/03/82/0382c5af8adc25945dcc51af57559b9fbf08d8b5">
+=======
+      <file leaf-file-name="18f9001794c859f2ce3c99b0cbd8e64958a29b53" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/storage/framework/cache/18/f9/18f9001794c859f2ce3c99b0cbd8e64958a29b53">
+>>>>>>> Stashed changes
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< Updated upstream
+      <file leaf-file-name="18f9001794c859f2ce3c99b0cbd8e64958a29b53" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/storage/framework/cache/18/f9/18f9001794c859f2ce3c99b0cbd8e64958a29b53">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+=======
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1481399336898" expanded="true" signature="192:11946" placeholder="..." />
+              </folding>
+>>>>>>> Stashed changes
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+<<<<<<< Updated upstream
+        <option value="$PROJECT_DIR$/public/framework/cache/18/f9/18f9001794c859f2ce3c99b0cbd8e64958a29b53" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/OrdersController.php" />
+        <option value="$PROJECT_DIR$/resources/views/orders/wish.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/address/form_create.blade.php" />
+        <option value="$PROJECT_DIR$/resources/lang/en/address.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/AddressesController.php" />
+        <option value="$PROJECT_DIR$/resources/views/address/list.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" />
+        <option value="$PROJECT_DIR$/resources/views/emails/template.blade.php" />
+        <option value="$PROJECT_DIR$/resources/lang/en/user.php" />
+        <option value="$PROJECT_DIR$/resources/views/orders/detail.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/UserController.php" />
+        <option value="$PROJECT_DIR$/app/User.php" />
+        <option value="$PROJECT_DIR$/resources/views/user/partial/user_inputs.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/ProductsController.php" />
+        <option value="$PROJECT_DIR$/resources/views/emails/sendMailToAdminAfterProductAdd.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/user/profile.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/products/partial/productBox.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/partial/navigation.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/products/myProducts.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/user/partial/menu_top.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/home.blade.php" />
+        <option value="$PROJECT_DIR$/storage/framework/cache/03/82/0382c5af8adc25945dcc51af57559b9fbf08d8b5" />
+        <option value="$PROJECT_DIR$/storage/framework/cache/18/f9/18f9001794c859f2ce3c99b0cbd8e64958a29b53" />
+=======
+        <option value="$PROJECT_DIR$/app/Http/Controllers/UserController.php" />
+        <option value="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
+        <option value="$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/LogController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/NoticesController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/OrdersController.php" />
+        <option value="$PROJECT_DIR$/resources/views/products/form.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/features/makeInputsToDocumentsPicturesVideos.blade.php" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/master.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/products/detailProd.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/ProductsController.php" />
+        <option value="$PROJECT_DIR$/database/amol.sql" />
+        <option value="$PROJECT_DIR$/app/Helpers/Utility.php" />
+        <option value="$PROJECT_DIR$/resources/views/products/myProducts.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/partial/navigation.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/products/partial/productBox.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/user/profile.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/user/partial/menu_top.blade.php" />
+        <option value="$PROJECT_DIR$/storage/framework/cache/18/f9/18f9001794c859f2ce3c99b0cbd8e64958a29b53" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/resources/views/orders/cart.blade.php" />
+>>>>>>> Stashed changes
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1364" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e-commerce-talegaon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e-commerce-talegaon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e-commerce-talegaon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e-commerce-talegaon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e-commerce-talegaon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storage" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e-commerce-talegaon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e-commerce-talegaon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storage" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e-commerce-talegaon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e-commerce-talegaon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storage" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+<<<<<<< Updated upstream
+              <option name="myItemId" value="cache" />
+=======
+              <option name="myItemId" value="views" />
+>>>>>>> Stashed changes
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e-commerce-talegaon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="e-commerce-talegaon" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="storage" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+<<<<<<< Updated upstream
+              <option name="myItemId" value="cache" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="82" />
+=======
+              <option name="myItemId" value="sessions" />
+>>>>>>> Stashed changes
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+<<<<<<< Updated upstream
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\XAMPP\htdocs\e-commerce-talegaon\resources\views\emails" />
+    </key>
+=======
+>>>>>>> Stashed changes
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+<<<<<<< Updated upstream
+      <changelist id="743649f3-2ecf-4a97-967c-8cc3a5e6367b" name="Default" comment="" />
+      <created>1481456406307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1481456406307</updated>
+      <workItem from="1481456411498" duration="11396000" />
+      <workItem from="1481519575904" duration="251000" />
+      <workItem from="1481565461464" duration="65000" />
+=======
+      <changelist id="633c75a8-1898-4738-bf40-0542bb6f120c" name="Default" comment="" />
+      <created>1480874034433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1480874034433</updated>
+      <workItem from="1480874037307" duration="2888000" />
+      <workItem from="1480915149552" duration="40000" />
+      <workItem from="1480964197695" duration="8204000" />
+      <workItem from="1481002024001" duration="759000" />
+      <workItem from="1481021753023" duration="1279000" />
+      <workItem from="1481054115786" duration="728000" />
+      <workItem from="1481267266436" duration="592000" />
+      <workItem from="1481276429011" duration="766000" />
+      <workItem from="1481304069674" duration="34712000" />
+>>>>>>> Stashed changes
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
+    <option name="totallyTimeSpent" value="11642000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="1" width="1364" height="726" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2462908" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+=======
+    <option name="totallyTimeSpent" value="12877000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1" y="1" width="1364" height="726" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24925816" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+>>>>>>> Stashed changes
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+<<<<<<< Updated upstream
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+=======
+>>>>>>> Stashed changes
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+<<<<<<< Updated upstream
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Http/Controllers/UserController.php</url>
+          <line>10</line>
+        </line-breakpoint>
+      </breakpoints>
+=======
+>>>>>>> Stashed changes
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/resources/views/products/myProducts.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="37" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/user/partial/menu_top.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="100" selection-start-line="3" selection-start-column="100" selection-end-line="3" selection-end-column="100" />
+=======
+    <entry file="file://$PROJECT_DIR$/routes/web/users.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="88" column="96" selection-start-line="88" selection-start-column="88" selection-end-line="88" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Helpers/File.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3043">
+          <caret line="179" column="9" selection-start-line="179" selection-start-column="9" selection-end-line="179" selection-end-column="9" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/resources/views/orders/detail.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3553">
+          <caret line="209" column="71" selection-start-line="209" selection-start-column="71" selection-end-line="209" selection-end-column="71" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/VirtualProduct.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/resources/views/orders/cart.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="104" column="36" selection-start-line="104" selection-start-column="36" selection-end-line="104" selection-end-column="36" />
+=======
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/FreeProductsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="147" column="33" selection-start-line="147" selection-start-column="33" selection-end-line="147" selection-end-column="33" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/resources/views/emails/sendMailToAdminAfterProductAdd.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+=======
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/database/amol.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="72" selection-start-line="38" selection-start-column="72" selection-end-line="38" selection-end-column="72" />
+=======
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Auth/Console/MakeAuthCommand.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/resources/views/user/profile.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="64" selection-start-line="41" selection-start-column="64" selection-end-line="41" selection-end-column="64" />
+=======
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/dom-crawler/Tests/LinkTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="129" column="69" selection-start-line="129" selection-start-column="69" selection-end-line="129" selection-end-column="69" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/resources/views/products/partial/productBox.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+=======
+    <entry file="file://$PROJECT_DIR$/resources/lang/pt-BR/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/resources/views/partial/navigation.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="39" selection-start-line="65" selection-start-column="39" selection-end-line="65" selection-end-column="39" />
+=======
+    <entry file="file://$PROJECT_DIR$/vendor/doctrine/dbal/lib/Doctrine/DBAL/Platforms/Keywords/SQLAnywhereKeywords.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="158" column="12" selection-start-line="158" selection-start-column="12" selection-end-line="158" selection-end-column="12" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/resources/views/products/myProducts.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="37" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
+=======
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Routing/Router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="289" column="49" selection-start-line="289" selection-start-column="34" selection-end-line="289" selection-end-column="49" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/resources/views/user/partial/menu_top.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="100" selection-start-line="3" selection-start-column="100" selection-end-line="3" selection-end-column="100" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/resources/views/orders/detail.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3553">
+          <caret line="209" column="71" selection-start-line="209" selection-start-column="71" selection-end-line="209" selection-end-column="71" />
+=======
+    <entry file="file://$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/Auth/LoginAuthenticator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/resources/views/orders/cart.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="104" column="36" selection-start-line="104" selection-start-column="36" selection-end-line="104" selection-end-column="36" />
+=======
+    <entry file="file://$PROJECT_DIR$/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Transport/Esmtp/Auth/LoginAuthenticatorTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state relative-caret-position="357">
+          <caret line="191" column="38" selection-start-line="191" selection-start-column="38" selection-end-line="191" selection-end-column="38" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/resources/views/emails/sendMailToAdminAfterProductAdd.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+=======
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/database/amol.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="72" selection-start-line="38" selection-start-column="72" selection-end-line="38" selection-end-column="72" />
+=======
+    <entry file="file://$PROJECT_DIR$/public/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="196" column="38" selection-start-line="196" selection-start-column="38" selection-end-line="196" selection-end-column="38" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/public/framework/cache/18/f9/18f9001794c859f2ce3c99b0cbd8e64958a29b53">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="52" column="63" selection-start-line="52" selection-start-column="63" selection-end-line="52" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/lang/en/address.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/address/form_edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/address/form_create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="56" selection-start-line="1" selection-start-column="56" selection-end-line="1" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AddressesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="199" column="71" selection-start-line="199" selection-start-column="71" selection-end-line="199" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="417" column="31" selection-start-line="417" selection-start-column="31" selection-end-line="417" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/orders/wish.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="116" column="72" selection-start-line="116" selection-start-column="72" selection-end-line="116" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/framework/views/a025cc07c52d1407a3e0251a15385e9f027f268b.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="135" column="1" selection-start-line="135" selection-start-column="1" selection-end-line="135" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/address/list.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="141" column="49" selection-start-line="141" selection-start-column="49" selection-end-line="141" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/debugbar/1a4560a2096a1a5e17c8d7ce1492c0d8.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="9295" selection-start-line="0" selection-start-column="9295" selection-end-line="0" selection-end-column="9295" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="79" column="50" selection-start-line="79" selection-start-column="50" selection-end-line="79" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/emails/template.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/lang/en/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="129" column="64" selection-start-line="129" selection-start-column="64" selection-end-line="129" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/OrdersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="1577" column="21" selection-start-line="1577" selection-start-column="21" selection-end-line="1577" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="78" column="11" selection-start-line="78" selection-start-column="11" selection-end-line="78" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="157" column="63" selection-start-line="157" selection-start-column="47" selection-end-line="157" selection-end-column="63" />
+          <folding>
+            <element signature="e#133#150#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/user/partial/user_inputs.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="49" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="139" column="58" selection-start-line="139" selection-start-column="40" selection-end-line="139" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/emails/accountVerificationByAdmin.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="13" />
+=======
+    <entry file="file://$PROJECT_DIR$/storage/debugbar/c2a71a50f4e83a9b52b8833414120a1f.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="0" column="3466" selection-start-line="0" selection-start-column="3466" selection-end-line="0" selection-end-column="3466" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/auth/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding>
+            <element signature="e#1657#1678#0#HTML" expanded="false" />
+            <element signature="e#1970#1982#0#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ProductDetail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/milon/barcode/src/Milon/Barcode/DNS1D.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="87" column="20" selection-start-line="87" selection-start-column="20" selection-end-line="87" selection-end-column="20" />
+          <folding>
+            <marker date="1480434036051" expanded="true" signature="7212:7242" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/features/form.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="219" column="5" selection-start-line="219" selection-start-column="5" selection-end-line="219" selection-end-column="5" />
+          <folding>
+            <marker date="1480144723905" expanded="true" signature="8502:8687" placeholder="..." />
+            <marker date="1480144723905" expanded="true" signature="8516:8685" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/features/makeInputs.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="221" column="6" selection-start-line="221" selection-start-column="6" selection-end-line="221" selection-end-column="6" />
+          <folding>
+            <marker date="1480144723944" expanded="true" signature="668:815" placeholder="..." />
+            <marker date="1480144723944" expanded="true" signature="681:813" placeholder="..." />
+            <marker date="1480144723944" expanded="true" signature="1033:1208" placeholder="..." />
+            <marker date="1480144723944" expanded="true" signature="1047:1206" placeholder="..." />
+            <marker date="1480144723944" expanded="true" signature="1261:1432" placeholder="..." />
+            <marker date="1480144723944" expanded="true" signature="1273:1430" placeholder="..." />
+            <marker date="1480144723944" expanded="true" signature="1827:2034" placeholder="..." />
+            <marker date="1480144723944" expanded="true" signature="1841:2032" placeholder="..." />
+            <marker date="1480144723944" expanded="true" signature="3378:3574" placeholder="..." />
+            <marker date="1480144723944" expanded="true" signature="3391:3572" placeholder="..." />
+            <marker date="1480144723944" expanded="true" signature="3621:3766" placeholder="..." />
+            <marker date="1480144723944" expanded="true" signature="3634:3764" placeholder="..." />
+            <marker date="1480144723944" expanded="true" signature="4061:4248" placeholder="..." />
+            <marker date="1480144723944" expanded="true" signature="4075:4246" placeholder="..." />
+            <marker date="1480144723944" expanded="true" signature="4301:4486" placeholder="..." />
+            <marker date="1480144723944" expanded="true" signature="4313:4484" placeholder="..." />
+            <marker date="1480144723944" expanded="true" signature="4878:5099" placeholder="..." />
+            <marker date="1480144723944" expanded="true" signature="4892:5097" placeholder="..." />
+            <marker date="1480144723944" expanded="true" signature="5340:5567" placeholder="..." />
+            <marker date="1480144723944" expanded="true" signature="5354:5565" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Queue/Events/WorkerStopping.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/LogController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/NoticesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/products/form.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="175" column="46" selection-start-line="175" selection-start-column="46" selection-end-line="175" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/features/makeInputsToDocumentsPicturesVideos.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="106" selection-start-line="21" selection-start-column="106" selection-end-line="21" selection-end-column="106" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_defines.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="281" column="9" selection-start-line="281" selection-start-column="9" selection-end-line="281" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="136" column="22" selection-start-line="136" selection-start-column="22" selection-end-line="136" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/lang/en/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="1088" column="53" selection-start-line="1088" selection-start-column="53" selection-end-line="1088" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/master.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1481398143943" expanded="true" signature="68:86" placeholder="..." />
+            <marker date="1481398143943" expanded="true" signature="75:86" placeholder="..." />
+            <marker date="1481398143943" expanded="true" signature="496:538" placeholder="..." />
+            <marker date="1481398143943" expanded="true" signature="509:527" placeholder="{&quot;debug&quot;: true...}" />
+            <marker date="1481398143943" expanded="true" signature="961:1145" placeholder="..." />
+            <marker date="1481398143943" expanded="true" signature="1162:1189" placeholder="..." />
+            <marker date="1481398143943" expanded="true" signature="1368:1380" placeholder="..." />
+            <marker date="1481398143943" expanded="true" signature="1597:1718" placeholder="..." />
+            <marker date="1481398143943" expanded="true" signature="1667:1718" placeholder="..." />
+            <marker date="1481398143943" expanded="true" signature="2680:2692" placeholder="..." />
+            <marker date="1481398143943" expanded="true" signature="3621:3637" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/amol.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="38" column="119" selection-start-line="38" selection-start-column="119" selection-end-line="38" selection-end-column="119" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/products/detailProd.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1481398143974" expanded="true" signature="239:695" placeholder="..." />
+            <marker date="1481398143974" expanded="true" signature="263:694" placeholder="..." />
+            <marker date="1481398143974" expanded="true" signature="5545:5769" placeholder="..." />
+            <marker date="1481398143974" expanded="true" signature="5564:5767" placeholder="..." />
+            <marker date="1481398143974" expanded="true" signature="11790:12504" placeholder="..." />
+            <marker date="1481398143974" expanded="true" signature="11848:12098" placeholder=" ProductsGallery ..." />
+            <marker date="1481398143974" expanded="true" signature="12128:12492" placeholder="..." />
+            <marker date="1481398143974" expanded="true" signature="12174:12491" placeholder="..." />
+            <marker date="1481398143974" expanded="true" signature="12284:12355" placeholder="{...}" />
+            <marker date="1481398143974" expanded="true" signature="12402:12477" placeholder="{...}" />
+            <marker date="1481398143974" expanded="true" signature="12586:13031" placeholder="..." />
+            <marker date="1481398143974" expanded="true" signature="12598:13030" placeholder="..." />
+            <marker date="1481398143974" expanded="true" signature="12623:13025" placeholder="..." />
+            <marker date="1481398143974" expanded="true" signature="12635:13024" placeholder="..." />
+            <marker date="1481398143974" expanded="true" signature="12653:13017" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/products/myProducts.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="58" column="48" selection-start-line="58" selection-start-column="48" selection-end-line="58" selection-end-column="49" />
+          <folding />
+>>>>>>> Stashed changes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ProductsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
+        <state relative-caret-position="477">
+          <caret line="357" column="38" selection-start-line="357" selection-start-column="38" selection-end-line="357" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/emails/sendMailToAdminAfterProductAdd.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+=======
+        <state relative-caret-position="443">
+          <caret line="183" column="21" selection-start-line="183" selection-start-column="21" selection-end-line="183" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/products/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="215" column="54" selection-start-line="215" selection-start-column="54" selection-end-line="215" selection-end-column="54" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/database/amol.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="72" selection-start-line="38" selection-start-column="72" selection-end-line="38" selection-end-column="72" />
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/products/partial/productBox.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/resources/views/user/profile.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="64" selection-start-line="41" selection-start-column="64" selection-end-line="41" selection-end-column="64" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="160" column="5" selection-start-line="160" selection-start-column="5" selection-end-line="160" selection-end-column="5" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/resources/views/products/partial/productBox.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/user/profile.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="41" column="103" selection-start-line="41" selection-start-column="103" selection-end-line="41" selection-end-column="103" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/partial/navigation.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
+        <state relative-caret-position="1105">
+          <caret line="65" column="39" selection-start-line="65" selection-start-column="39" selection-end-line="65" selection-end-column="39" />
+=======
+        <state relative-caret-position="170">
+          <caret line="28" column="43" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/resources/views/products/myProducts.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="37" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/user/partial/menu_top.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="100" selection-start-line="3" selection-start-column="100" selection-end-line="3" selection-end-column="100" />
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/user/partial/menu_top.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#a#0;n#li#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/framework/cache/18/f9/18f9001794c859f2ce3c99b0cbd8e64958a29b53">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/resources/views/orders/detail.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3553">
+          <caret line="209" column="71" selection-start-line="209" selection-start-column="71" selection-end-line="209" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/orders/cart.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="104" column="36" selection-start-line="104" selection-start-column="36" selection-end-line="104" selection-end-column="36" />
+=======
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1481399336898" expanded="true" signature="192:11946" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="225" column="52" selection-start-line="225" selection-start-column="36" selection-end-line="225" selection-end-column="52" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="107" column="47" selection-start-line="107" selection-start-column="47" selection-end-line="107" selection-end-column="47" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/OrdersController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="701" column="28" selection-start-line="701" selection-start-column="28" selection-end-line="701" selection-end-column="32" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
+    <entry file="file://$PROJECT_DIR$/storage/framework/cache/18/f9/18f9001794c859f2ce3c99b0cbd8e64958a29b53">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/framework/cache/03/82/0382c5af8adc25945dcc51af57559b9fbf08d8b5">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/app/Helpers/Utility.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="428" column="27" selection-start-line="428" selection-start-column="27" selection-end-line="428" selection-end-column="27" />
+          <folding>
+            <marker date="1481398143912" expanded="true" signature="14778:14784" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/orders/cart.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="205" column="69" selection-start-line="205" selection-start-column="69" selection-end-line="205" selection-end-column="69" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
