@@ -26,7 +26,7 @@ composer require ant-vel/ant-vel
 The second way is cloning this repo, for that you need to run this commands:
 
 ```
-git clone https://github.com/ant-vel/antVel.git
+git clone https://github.com/cakeph/antvelclone.git
 ```
 
 
